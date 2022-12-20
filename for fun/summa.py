@@ -4,4 +4,4 @@ def summa(arr):
         total += i
     return total
 n = [1, 5, 2, 8, 2]
-summa(n)
+print(summa(n))
