@@ -3,5 +3,3 @@ def summa(arr):
     for i in arr:
         total += i
     return total
-n = [1, 5, 2, 8, 2]
-print(summa(n))
